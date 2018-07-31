@@ -1,0 +1,27 @@
+name: CraftNow-System
+version: 1.0
+author: GODMODE
+main: de.godmode.craftnow.Main
+
+commands:
+   ban:
+   unban:
+   check:
+   tempban:
+   cc:
+   report:
+   website:
+   forum:
+   ts:
+   teamspeak:
+   ccp:
+   heal:
+   feed:
+   ping:
+   globalmute:
+   gm:
+   tc:
+   invsee:
+   msg:
+   bc:
+   news:

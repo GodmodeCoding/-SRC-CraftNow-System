@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CraftNow - System">
+    <output-path>$PROJECT_DIR$/out/artifacts/CraftNow___System</output-path>
+    <root id="archive" name="CraftNow - System.jar">
+      <element id="module-output" name="CraftNow" />
+    </root>
+  </artifact>
+</component>
